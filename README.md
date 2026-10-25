@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou <SEU NOME> 👋</h1>
+<h1 align="center">Oi!! Sou a Júlia Ribeiro de Souza!!<SEU NOME> 👋</h1>
 
 <p align="center">
   <em><Uma frase curta sobre você, ex: Estudante de desenvolvimento apaixonado por criar coisas úteis></em>
@@ -8,11 +8,10 @@
 
 ## 🙋 Sobre mim
 
-- 🎓 Estudo <curso/área> na <instituição>
-- 🌱 Atualmente aprendendo <tecnologia>
-- 💼 Procuro oportunidade de <estágio / primeiro emprego / freelas>
-- 📍 Moro em <cidade, estado>
-- ⚡ Curiosidade: <algo divertido sobre você>
+- 🎓 Estudo Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Sorocaba
+- 🌱 Atualmente aprendendo JavaScript e Linguagem C
+- 📍 Moro em Sorocaba, São Paulo
+- ⚡ Curiosidade: Gosto de ler livros e jogar
 
 ## 🛠️ Tecnologias
 
