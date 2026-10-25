@@ -23,13 +23,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuRS-maker/JuRS-maker/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuRS-maker/JuRS-maker/output/github-contribution-grid-snake.svg" />
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/JuRS-maker/JuRS-maker/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ## 📊 Estatísticas
 
 <p align="center">
@@ -37,7 +30,13 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuRS-maker&layout=compact&theme=radical" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuRS-maker/JuRS-maker/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuRS-maker/JuRS-maker/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/JuRS-maker/JuRS-maker/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/<seu-linkedin>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-ribeiro-de-souza-a93a183a0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<seu-email>)
