@@ -10,7 +10,7 @@
 
 - 🎓 Estudo Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Sorocaba
 - 🌱 Atualmente aprendendo JavaScript e Linguagem C
-- 📍 Moro em Sorocaba, São Paulo
+- 📍  Moro em Sorocaba, São Paulo
 - ⚡ Curiosidade: Gosto de ler livros e jogar
 
 ## 🛠️ Tecnologias
